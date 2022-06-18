@@ -1,0 +1,15 @@
+models/
+latex/
+figures/
+checkpoints/gaussian_500d
+sim_data/
+__pycache__/
+.ipynb_checkpoints/
+.Rhistory
+seqRNA_Heteroscedastic_Example.ipynb
+playground/
+diffusion_api.h
+diffusion.cp36-win_amd64.pyd
+diffusion.c
+build
+metrics_Levy.p
